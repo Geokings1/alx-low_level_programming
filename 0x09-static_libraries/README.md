@@ -1,1 +1,1 @@
-0x09. C - Static libraries
+This repository introduces C programming language.
